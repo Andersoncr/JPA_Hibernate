@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+/*
+ * style.css
+ */
+body {
+  padding-top: 50px;
+}
+
+.formulario .dentro {
+
+	position: relative;
+	width: 40%;
+}
+
+.formulario {
+	margin-top: 15%;
+	margin-bottom: 15%;
+	background-color: #b6d4f9;
+	border: 1px solid rgba(0, 0, 0, .2);
+	width: 350px;
+	height: 260px;
+	border-radius: 20px;
+}
